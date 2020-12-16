@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyl1924.github.io</id>
     <title>王延领的blog</title>
-    <updated>2020-12-16T02:35:18.615Z</updated>
+    <updated>2020-12-16T06:11:37.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wyl1924.github.io"/>
     <link rel="self" href="https://wyl1924.github.io/atom.xml"/>
@@ -16,7 +16,5 @@
         <link href="https://wyl1924.github.io/post/daughter/">
         </link>
         <updated>2020-12-15T02:06:21.000Z</updated>
-        <content type="html"><![CDATA[<p>啛啛喳喳</p>
-]]></content>
     </entry>
 </feed>
