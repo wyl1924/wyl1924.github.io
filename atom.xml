@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyl1924.github.io</id>
     <title>王延领的blog</title>
-    <updated>2020-12-16T07:18:10.812Z</updated>
+    <updated>2020-12-17T08:35:16.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wyl1924.github.io"/>
     <link rel="self" href="https://wyl1924.github.io/atom.xml"/>
@@ -11,10 +11,10 @@
     <icon>https://wyl1924.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 王延领的blog</rights>
     <entry>
-        <title type="html"><![CDATA[测试学习]]></title>
-        <id>https://wyl1924.github.io/post/daughter/</id>
-        <link href="https://wyl1924.github.io/post/daughter/">
+        <title type="html"><![CDATA[Mysql Workbench 数据库导出导入]]></title>
+        <id>https://wyl1924.github.io/post/mysql-workbench-shu-ju-ku-dao-chu-dao-ru/</id>
+        <link href="https://wyl1924.github.io/post/mysql-workbench-shu-ju-ku-dao-chu-dao-ru/">
         </link>
-        <updated>2020-12-15T02:06:21.000Z</updated>
+        <updated>2020-12-17T07:14:25.000Z</updated>
     </entry>
 </feed>
