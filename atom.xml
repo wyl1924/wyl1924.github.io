@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyl1924.github.io</id>
     <title>王延领的blog</title>
-    <updated>2020-12-17T08:37:29.137Z</updated>
+    <updated>2020-12-31T06:00:11.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wyl1924.github.io"/>
     <link rel="self" href="https://wyl1924.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://wyl1924.github.io/images/avatar.png</logo>
     <icon>https://wyl1924.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 王延领的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Photoshop常用快捷键速查]]></title>
+        <id>https://wyl1924.github.io/post/photoshop-chang-yong-kuai-jie-jian-su-cha/</id>
+        <link href="https://wyl1924.github.io/post/photoshop-chang-yong-kuai-jie-jian-su-cha/">
+        </link>
+        <updated>2020-12-31T05:40:06.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mysql Workbench 数据库导出导入]]></title>
         <id>https://wyl1924.github.io/post/mysql-workbench-shu-ju-ku-dao-chu-dao-ru/</id>
