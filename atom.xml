@@ -2,14 +2,287 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyl1924.github.io</id>
     <title>王延领的blog</title>
-    <updated>2020-12-31T06:11:20.926Z</updated>
+    <updated>2021-01-12T02:24:18.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wyl1924.github.io"/>
     <link rel="self" href="https://wyl1924.github.io/atom.xml"/>
     <subtitle>健康，快乐，热爱生活。</subtitle>
     <logo>https://wyl1924.github.io/images/avatar.png</logo>
     <icon>https://wyl1924.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 王延领的blog</rights>
+    <rights>All rights reserved 2021, 王延领的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[.net 的成长]]></title>
+        <id>https://wyl1924.github.io/post/net-de-cheng-chang/</id>
+        <link href="https://wyl1924.github.io/post/net-de-cheng-chang/">
+        </link>
+        <updated>2021-01-12T02:13:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>2002-02-13</p>
+<p>.NET Framework 1.0</p>
+<p>CLR 1.0</p>
+<p>Visual Studio .NET</p>
+<p>关键词：跨语言、托管代码</p>
+<hr>
+<p>2003-04-24</p>
+<p>.NET Framework 1.1</p>
+<p>CLR 1.1</p>
+<p>Visual Studio 2003</p>
+<p>关键词：ODBC，.NET Compact Framework，IPV6</p>
+<hr>
+<p>2005-11-07</p>
+<p>.NET Framework 2.0</p>
+<p>CLR 2.0</p>
+<p>Visual Studio 2005</p>
+<p>关键词：64位，泛型，部分类，迭代器，匿名方法，可空类型，MasterPage</p>
+<hr>
+<p>2006-11-06</p>
+<p>.NET Framework 3.0</p>
+<p>CLR 2.0</p>
+<p>Expression Blend</p>
+<p>关键词: WCF，WPF，WF，XAML</p>
+<hr>
+<p>2007-11-19</p>
+<p>.NET Framework 3.5</p>
+<p>CLR 2.0</p>
+<p>Visual Studio 2008</p>
+<p>关键词：LINQ，Entity Framework，ASP.NET MVC</p>
+<hr>
+<p>2010-04-12</p>
+<p>.NET Framework 4.0</p>
+<p>CLR 4</p>
+<p>Visual Studio 2010</p>
+<p>关键词：并行计算，TPL，可选参数，BigInteger</p>
+<hr>
+<p>2012-08-15</p>
+<p>.NET Framework 4.5</p>
+<p>CLR 4</p>
+<p>Visual Studio 2012</p>
+<p>关键词：async/await，WinRT，UTF-16，zip</p>
+<hr>
+<p>2013-10-17</p>
+<p>.NET Framework 4.5.1</p>
+<p>CLR 4</p>
+<p>Visual Studio 2013</p>
+<p>关键词：64位EnC，async调试器</p>
+<hr>
+<p>2014-05-05</p>
+<p>.NET Framework 4.5.2</p>
+<p>CLR 4</p>
+<p>Visual Studio 2013</p>
+<p>关键词：HDPI</p>
+<hr>
+<p>2015-07-20</p>
+<p>.NET Framework 4.6</p>
+<p>CLR 4</p>
+<p>Visual Studio 2015</p>
+<p>关键词：RyuJIT，HDPI，TLS1.1/1.2</p>
+<hr>
+<p>2015-11-30</p>
+<p>.NET Framework 4.6.1</p>
+<p>CLR 4</p>
+<p>Visual Studio 2015</p>
+<p>关键词：ECDSA，AlwaysOn</p>
+<hr>
+<p>2016-06-27</p>
+<p>.NET Core 1.0</p>
+<p>Visual Studio 2015</p>
+<p>关键词：开源，跨平台，高性能，模块化，容器</p>
+<hr>
+<p>2016-08-02</p>
+<p>.NET Framework 4.6.2</p>
+<p>CLR 4</p>
+<p>Visual Studio 2015</p>
+<p>关键词：路径长度，FIPS 186-3 DSA，Centennial（UWP），PMA DPI</p>
+<hr>
+<p>2016-11-16</p>
+<p>.NET Core 1.1</p>
+<p>Visual Studio 2017</p>
+<p>关键词：性能，Azure，SQL 2016</p>
+<hr>
+<p>2017-04-05</p>
+<p>.NET Framework 4.7</p>
+<p>CLR 4</p>
+<p>Visual Studio 2017</p>
+<p>关键词：HDPI，触控，elliptic curve cryptography</p>
+<hr>
+<p>2017-08-14</p>
+<p>.NET Core 2.0</p>
+<p>Visual Studio 2017</p>
+<p>关键词：.NET Standard 2.0，Debian Stretch，SUSE Linux Enterprise，macOS High Sierra，ARM32</p>
+<hr>
+<p>2017-10-17</p>
+<p>.NET Framework 4.7.1</p>
+<p>CLR 4</p>
+<p>Visual Studio 2017</p>
+<p>关键词：.NET Standard 2.0</p>
+<hr>
+<p>2018-04-30</p>
+<p>.NET Framework 4.7.2</p>
+<p>CLR 4</p>
+<p>Visual Studio 2017</p>
+<hr>
+<p>2018-05-30</p>
+<p>.NET Core 2.1</p>
+<p>Visual Studio 2017</p>
+<p>关键词：Span<T>，Alpine Linux，Memory<T>，</p>
+<p>Cryptography，</p>
+<p>Windows Compatibility Pack</p>
+<hr>
+<p>2018-12-04</p>
+<p>.NET Core 2.2</p>
+<p>Visual Studio 2017</p>
+<p>关键词：</p>
+<p>Windows ARM32，Tiered Compilation</p>
+<hr>
+<p>2019-04-18</p>
+<p>.NET Framework 4.8</p>
+<p>CLR 4</p>
+<p>Visual Studio 2019</p>
+<p>关键词：HDPI</p>
+<hr>
+<p>2019-09-23</p>
+<p>.NET Core 3.0</p>
+<p>Visual Studio 2019</p>
+<p>关键词：WinForms/WPF，Blazor，ARM64，GRPC，C#8，JSON，.NET Standard 2.1，IoT，HTTP2，TLS1.3，Assembly linking</p>
+<hr>
+<p>2019-12-3</p>
+<p>.NET Core 3.1</p>
+<p>Visual Studio 2019</p>
+<p>关键词：LTS， Blazor WebAssembly，SameSite Cookie，Blazor，iOS 13</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2002-02-13</p>
+<p>.NET Framework 1.0</p>
+<p>CLR 1.0</p>
+<p>Visual Studio .NET</p>
+<p>关键词：跨语言、托管代码</p>
+<hr>
+<p>2003-04-24</p>
+<p>.NET Framework 1.1</p>
+<p>CLR 1.1</p>
+<p>Visual Studio 2003</p>
+<p>关键词：ODBC，.NET Compact Framework，IPV6</p>
+<hr>
+<p>2005-11-07</p>
+<p>.NET Framework 2.0</p>
+<p>CLR 2.0</p>
+<p>Visual Studio 2005</p>
+<p>关键词：64位，泛型，部分类，迭代器，匿名方法，可空类型，MasterPage</p>
+<hr>
+<p>2006-11-06</p>
+<p>.NET Framework 3.0</p>
+<p>CLR 2.0</p>
+<p>Expression Blend</p>
+<p>关键词: WCF，WPF，WF，XAML</p>
+<hr>
+<p>2007-11-19</p>
+<p>.NET Framework 3.5</p>
+<p>CLR 2.0</p>
+<p>Visual Studio 2008</p>
+<p>关键词：LINQ，Entity Framework，ASP.NET MVC</p>
+<hr>
+<p>2010-04-12</p>
+<p>.NET Framework 4.0</p>
+<p>CLR 4</p>
+<p>Visual Studio 2010</p>
+<p>关键词：并行计算，TPL，可选参数，BigInteger</p>
+<hr>
+<p>2012-08-15</p>
+<p>.NET Framework 4.5</p>
+<p>CLR 4</p>
+<p>Visual Studio 2012</p>
+<p>关键词：async/await，WinRT，UTF-16，zip</p>
+<hr>
+<p>2013-10-17</p>
+<p>.NET Framework 4.5.1</p>
+<p>CLR 4</p>
+<p>Visual Studio 2013</p>
+<p>关键词：64位EnC，async调试器</p>
+<hr>
+<p>2014-05-05</p>
+<p>.NET Framework 4.5.2</p>
+<p>CLR 4</p>
+<p>Visual Studio 2013</p>
+<p>关键词：HDPI</p>
+<hr>
+<p>2015-07-20</p>
+<p>.NET Framework 4.6</p>
+<p>CLR 4</p>
+<p>Visual Studio 2015</p>
+<p>关键词：RyuJIT，HDPI，TLS1.1/1.2</p>
+<hr>
+<p>2015-11-30</p>
+<p>.NET Framework 4.6.1</p>
+<p>CLR 4</p>
+<p>Visual Studio 2015</p>
+<p>关键词：ECDSA，AlwaysOn</p>
+<hr>
+<p>2016-06-27</p>
+<p>.NET Core 1.0</p>
+<p>Visual Studio 2015</p>
+<p>关键词：开源，跨平台，高性能，模块化，容器</p>
+<hr>
+<p>2016-08-02</p>
+<p>.NET Framework 4.6.2</p>
+<p>CLR 4</p>
+<p>Visual Studio 2015</p>
+<p>关键词：路径长度，FIPS 186-3 DSA，Centennial（UWP），PMA DPI</p>
+<hr>
+<p>2016-11-16</p>
+<p>.NET Core 1.1</p>
+<p>Visual Studio 2017</p>
+<p>关键词：性能，Azure，SQL 2016</p>
+<hr>
+<p>2017-04-05</p>
+<p>.NET Framework 4.7</p>
+<p>CLR 4</p>
+<p>Visual Studio 2017</p>
+<p>关键词：HDPI，触控，elliptic curve cryptography</p>
+<hr>
+<p>2017-08-14</p>
+<p>.NET Core 2.0</p>
+<p>Visual Studio 2017</p>
+<p>关键词：.NET Standard 2.0，Debian Stretch，SUSE Linux Enterprise，macOS High Sierra，ARM32</p>
+<hr>
+<p>2017-10-17</p>
+<p>.NET Framework 4.7.1</p>
+<p>CLR 4</p>
+<p>Visual Studio 2017</p>
+<p>关键词：.NET Standard 2.0</p>
+<hr>
+<p>2018-04-30</p>
+<p>.NET Framework 4.7.2</p>
+<p>CLR 4</p>
+<p>Visual Studio 2017</p>
+<hr>
+<p>2018-05-30</p>
+<p>.NET Core 2.1</p>
+<p>Visual Studio 2017</p>
+<p>关键词：Span<T>，Alpine Linux，Memory<T>，</p>
+<p>Cryptography，</p>
+<p>Windows Compatibility Pack</p>
+<hr>
+<p>2018-12-04</p>
+<p>.NET Core 2.2</p>
+<p>Visual Studio 2017</p>
+<p>关键词：</p>
+<p>Windows ARM32，Tiered Compilation</p>
+<hr>
+<p>2019-04-18</p>
+<p>.NET Framework 4.8</p>
+<p>CLR 4</p>
+<p>Visual Studio 2019</p>
+<p>关键词：HDPI</p>
+<hr>
+<p>2019-09-23</p>
+<p>.NET Core 3.0</p>
+<p>Visual Studio 2019</p>
+<p>关键词：WinForms/WPF，Blazor，ARM64，GRPC，C#8，JSON，.NET Standard 2.1，IoT，HTTP2，TLS1.3，Assembly linking</p>
+<hr>
+<p>2019-12-3</p>
+<p>.NET Core 3.1</p>
+<p>Visual Studio 2019</p>
+<p>关键词：LTS， Blazor WebAssembly，SameSite Cookie，Blazor，iOS 13</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photoshop常用快捷键速查]]></title>
         <id>https://wyl1924.github.io/post/photoshop-chang-yong-kuai-jie-jian-su-cha/</id>
