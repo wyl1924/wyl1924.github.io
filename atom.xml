@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wyl1924.github.io</id>
     <title>王延领的blog</title>
-    <updated>2021-01-12T02:58:21.803Z</updated>
+    <updated>2021-01-18T05:58:05.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wyl1924.github.io"/>
     <link rel="self" href="https://wyl1924.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://wyl1924.github.io/images/avatar.png</logo>
     <icon>https://wyl1924.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 王延领的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[CentOS 7/8 一键安装 shadowsocks-libev]]></title>
+        <id>https://wyl1924.github.io/post/centos-78-yi-jian-an-zhuang-shadowsocks-libev/</id>
+        <link href="https://wyl1924.github.io/post/centos-78-yi-jian-an-zhuang-shadowsocks-libev/">
+        </link>
+        <updated>2021-01-14T09:51:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程序员需要了解的英文缩写]]></title>
         <id>https://wyl1924.github.io/post/cheng-xu-yuan-xu-yao-liao-jie-de-ying-wen-suo-xie/</id>
