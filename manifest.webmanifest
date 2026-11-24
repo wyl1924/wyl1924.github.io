@@ -1,0 +1,23 @@
+{
+  "name": "墨盒词盒 · Mohe WordBox",
+  "short_name": "墨盒词盒",
+  "description": "一词一画，沉心记词",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0E1217",
+  "theme_color": "#0E1217",
+  "icons": [
+    {
+      "src": "logo-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

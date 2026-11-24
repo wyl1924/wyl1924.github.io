@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <title>墨盒词盒</title>
+    <script>
+      const home = new URL("../", location.href);
+      home.search = location.search;
+      home.hash = location.hash;
+      location.replace(home.href);
+    </script>
+    <meta http-equiv="refresh" content="0;url=../">
+  </head>
+  <body><a href="../">打开墨盒词盒</a></body>
+</html>

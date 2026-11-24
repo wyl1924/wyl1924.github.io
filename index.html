@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0E1217" />
+    <title>墨盒词盒 · 一词一画，沉心记词</title>
+    <meta name="description" content="墨盒词盒：7,298 个核心词汇，一词一画、英美发音、双语例句与 FSRS 科学间隔复习。" />
+    <link rel="icon" type="image/png" href="/logo-128.png" />
+    <link rel="apple-touch-icon" href="/logo-512.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="preload" href="/atlas/index.json" as="fetch" crossorigin="anonymous" />
+    <script>
+      (function () {
+        var t = "dark";
+        try {
+          var s = JSON.parse(localStorage.getItem("mohe-wordbox:settings") || "{}");
+          if (s.theme) t = s.theme;
+        } catch (e) {}
+        if (t !== "system") document.documentElement.setAttribute("data-theme", t);
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-BxxT7PYS.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BbscDAAJ.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
